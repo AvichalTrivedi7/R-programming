@@ -1,0 +1,17 @@
+Data structures in R:-
+1) Atomic (homogeneous) (same datatype stored in it)
+2) Generic (heterogeneous) (can have any/all of the atomic data types in it. And it will also be able to store different data types)
+
+
+
+Dimension, Atomic, Generic
+1        , Vector, List
+2        , Matrix, DataFrame
+3        , Array
+
+
+
+
+
+
+

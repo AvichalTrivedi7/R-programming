@@ -31,7 +31,8 @@ This repository contains R scripts covering fundamental to advanced topics in R 
 
 ### 🔹 Advanced Topics  
 - **Package Management** – Installing and using R packages  
-- **Vectorized Operations** – Arithmetic, logical, and comparison operators  
+- **Vectorized Operations** – Arithmetic, logical, and comparison operators
+- **Data Visualization** – Plotting and Updating Various graphs from Datasets  
 
 ## 🚀 Usage  
 To run any script, open RStudio or use the R terminal and execute:  
